@@ -1,0 +1,4 @@
+C:\AdvancedXamarinDeveloperMasterClass\B6_AppCenter\Finans\Finance.Android\obj\Debug\100\MonoAndroid,Version=v10.0.AssemblyAttributes.cs
+C:\AdvancedXamarinDeveloperMasterClass\B6_AppCenter\Finans\Finance.Android\obj\Debug\100\build.props
+C:\AdvancedXamarinDeveloperMasterClass\B6_AppCenter\Finans\Finance.Android\obj\Debug\100\adb.props
+C:\AdvancedXamarinDeveloperMasterClass\B6_AppCenter\Finans\Finance.Android\obj\Debug\100\Finance.Android.csprojAssemblyReference.cache

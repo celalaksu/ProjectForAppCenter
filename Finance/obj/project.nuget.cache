@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "n5xsurDulAOE2o3ULVe9Ldv/Tb7+T0Nra1A2sMkhzuKX//jsK4x9aawGbvbvNHQ5fbSgo1HU5uKo4wzEbXPxLQ==",
+  "success": true,
+  "projectFilePath": "C:\\AdvancedXamarinDeveloperMasterClass\\B6_AppCenter\\Finans\\Finance\\Finance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CLLAKS\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\CLLAKS\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\CLLAKS\\.nuget\\packages\\xamarin.forms\\4.6.0.847\\xamarin.forms.4.6.0.847.nupkg.sha512"
+  ],
+  "logs": []
+}
