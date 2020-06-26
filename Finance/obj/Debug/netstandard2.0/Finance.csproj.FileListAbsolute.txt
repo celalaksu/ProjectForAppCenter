@@ -1,7 +1,6 @@
 C:\AdvancedXamarinDeveloperMasterClass\B6_AppCenter\Finans\Finance\bin\Debug\netstandard2.0\Finance.deps.json
 C:\AdvancedXamarinDeveloperMasterClass\B6_AppCenter\Finans\Finance\bin\Debug\netstandard2.0\Finance.dll
 C:\AdvancedXamarinDeveloperMasterClass\B6_AppCenter\Finans\Finance\bin\Debug\netstandard2.0\Finance.pdb
-C:\AdvancedXamarinDeveloperMasterClass\B6_AppCenter\Finans\Finance\obj\Debug\netstandard2.0\Finance.csprojAssemblyReference.cache
 C:\AdvancedXamarinDeveloperMasterClass\B6_AppCenter\Finans\Finance\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\AdvancedXamarinDeveloperMasterClass\B6_AppCenter\Finans\Finance\obj\Debug\netstandard2.0\View\MainPage.xaml.g.cs
 C:\AdvancedXamarinDeveloperMasterClass\B6_AppCenter\Finans\Finance\obj\Debug\netstandard2.0\View\PostPage.xaml.g.cs

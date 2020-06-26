@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "7My8NTl33QMQRRbrUJs2EA0thpAU3GinkpUXHhRa+04cSU9bhBv15qfhgLoohx09DIOMqXOcxJiSgxaRSxAvng==",
+  "dgSpecHash": "QB4XtEFaAVyg6dXB6zG3oO8q4hoJB81vcXq4qPz7qkAdfDK32TlgyC1LuBuiEVFxtLeGqs9TZ5lpG1qbfi8tqw==",
   "success": true,
   "projectFilePath": "C:\\AdvancedXamarinDeveloperMasterClass\\B6_AppCenter\\Finans\\Finance.iOS\\Finance.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\CLLAKS\\.nuget\\packages\\xamarin.forms\\4.6.0.847\\xamarin.forms.4.6.0.847.nupkg.sha512"
+    "C:\\Users\\CLLAKS\\.nuget\\packages\\microsoft.appcenter\\3.2.2\\microsoft.appcenter.3.2.2.nupkg.sha512",
+    "C:\\Users\\CLLAKS\\.nuget\\packages\\microsoft.appcenter.analytics\\3.2.2\\microsoft.appcenter.analytics.3.2.2.nupkg.sha512",
+    "C:\\Users\\CLLAKS\\.nuget\\packages\\microsoft.appcenter.crashes\\3.2.2\\microsoft.appcenter.crashes.3.2.2.nupkg.sha512",
+    "C:\\Users\\CLLAKS\\.nuget\\packages\\xamarin.forms\\4.7.0.968\\xamarin.forms.4.7.0.968.nupkg.sha512"
   ],
   "logs": []
 }
